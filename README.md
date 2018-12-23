@@ -1,2 +1,1 @@
-# basic-server
-Basic nodejs server
+# Basic server for node.js
